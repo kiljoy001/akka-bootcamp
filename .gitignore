@@ -189,3 +189,5 @@ FakesAssemblies/
 /src/Unit-1/DoThis/.vs/WinTail/v15/Server/sqlite3/storage.ide
 /src/Unit-1/DoThis/.vs/WinTail/v15/Server/sqlite3/storage.ide-wal
 /src/Unit-1/lesson1/Completed/.vs/WinTail/DesignTimeBuild/.dtbcache
+*.dtbcache
+*.json
