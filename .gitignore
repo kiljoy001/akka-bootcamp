@@ -191,3 +191,7 @@ FakesAssemblies/
 /src/Unit-1/lesson1/Completed/.vs/WinTail/DesignTimeBuild/.dtbcache
 *.dtbcache
 *.json
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
